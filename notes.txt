@@ -1,0 +1,2 @@
+IA qui place aléatoirement les bateaux
+Niveau de difficulté de l'IA (débutant, normal, avancé)
