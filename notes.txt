@@ -1,2 +1,4 @@
 IA qui place aléatoirement les bateaux
 Niveau de difficulté de l'IA (débutant, normal, avancé)
+
+https://gist.github.com/veesa/baf00742fe389d85c865
